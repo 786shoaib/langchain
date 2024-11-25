@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langgraph
+langserve
+python-dotenv
+langchain_google_genai
+fastapi
+uvicorn
